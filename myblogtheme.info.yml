@@ -1,0 +1,15 @@
+name: 'My Blog Theme'
+type: theme
+description: 'A custom theme for my blog website.'
+core_version_requirement: ^9 || ^10
+package: Custom
+base theme: false
+
+regions:
+  header: 'Header'
+  content: 'Content'
+  sidebar: 'Sidebar'
+  footer: 'Footer'
+
+libraries:
+  - myblogtheme/global-styling
