@@ -7,8 +7,11 @@ base theme: false
 
 regions:
   header: 'Header'
+  banner: 'Banner'
   content: 'Content'
-  sidebar: 'Sidebar'
+  footerone: 'Footer 1'
+  footertwo: 'Footer 2'
+  footerthree: 'Footer 3'
   footer: 'Footer'
 
 libraries:
